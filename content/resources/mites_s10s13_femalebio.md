@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Example of student work for an assignment to write a mini-autobiography.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/es-s60-the-art-and-science-of-happiness-spring-2013/cb689f3695f5d36a43c1b7242b753f34_MITES_S10S13_FemaleBio.pdf
+file: /media/courses/es-s60-the-art-and-science-of-happiness-spring-2013/cb689f3695f5d36a43c1b7242b753f34_MITES_S10S13_FemaleBio.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: 'Mini-autobiography: female senior'
 uid: cb689f36-95f5-d36a-43c1-b7242b753f34
