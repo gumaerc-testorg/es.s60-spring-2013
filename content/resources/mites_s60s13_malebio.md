@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 23acd547-917e-b74f-da18-d025f373b32d
 resourcetype: Document
 title: 'Mini-autobiography: male senior'
 uid: 40a73079-ce30-b30b-dcdd-78f29f930385

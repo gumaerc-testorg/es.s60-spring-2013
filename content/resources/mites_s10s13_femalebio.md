@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 23acd547-917e-b74f-da18-d025f373b32d
 resourcetype: Document
 title: 'Mini-autobiography: female senior'
 uid: cb689f36-95f5-d36a-43c1-b7242b753f34
