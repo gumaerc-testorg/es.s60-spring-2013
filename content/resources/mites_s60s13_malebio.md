@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Example of student work for an assignment to write a mini-autobiography.
-file: /ol-ocw-studio-app/courses/es-s60-the-art-and-science-of-happiness-spring-2013/40a73079ce30b30bdcdd78f29f930385_MITES_S60S13_MaleBio.pdf
+file: /courses/es-s60-the-art-and-science-of-happiness-spring-2013/40a73079ce30b30bdcdd78f29f930385_MITES_S60S13_MaleBio.pdf
 file_size: 79073
 file_type: application/pdf
 learning_resource_types:
