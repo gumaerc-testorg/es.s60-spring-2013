@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/es-s60-the-art-and-science-of-happiness-spring-2013/89a36a1358f1a16cd39e0d4d7885146f_ES-S60s13-th.png
+file: /ol-ocw-studio-app/courses/es-s60-the-art-and-science-of-happiness-spring-2013/89a36a1358f1a16cd39e0d4d7885146f_ES-S60s13-th.png
 file_size: 31649
 file_type: image/png
 image_metadata:
