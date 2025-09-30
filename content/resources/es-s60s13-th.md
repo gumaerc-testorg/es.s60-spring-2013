@@ -6,8 +6,8 @@ file_size: 31649
 file_type: image/png
 image_metadata:
   caption: Finding one's purpose in life can lead to happiness. This course explores
-    theories of happiness. (Image courtesy of [Claire Rowland](http://www.flickr.com/photos/clurr/5833335397)
-    on Flickr. CC BY)
+    theories of happiness. (Image courtesy of {{% resource_link "31b85383-0c79-409a-8970-590ec8874e1d"
+    "Claire Rowland" %}} on Flickr. CC BY)
   credit: Image courtesy of Claire Rowland on Flickr. License CC BY.
   image-alt: 'A quote about happiness is overlayed over a photo of a stream. '
 learning_resource_types: []
