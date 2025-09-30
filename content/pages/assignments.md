@@ -44,7 +44,7 @@ Overview of positive psychology
 
 Write a gratitude letter to someone and share it with them.
 
-Take the [Oxford Happiness Questionnaire](http://www.meaningandhappiness.com/oxford-happiness-questionnaire/), MeaningandHappiness.com.
+Take the {{% resource_link "567b1b87-e279-4ad8-bf3f-6378f1946d20" "Oxford Happiness Questionnaire" %}}, MeaningandHappiness.com.
 
 Write two questions about this week's topic.
 
@@ -94,7 +94,7 @@ Strengths
 - How can we use them and in what capacities?
 - What are their limitations?
 
-_Guest speaker: Tamara Menghi, Associate Director, Employer Relations and Career Programs,_ [_MIT Global Education & Career Development_](http://gecd.mit.edu/)
+_Guest speaker: Tamara Menghi, Associate Director, Employer Relations and Career Programs,_ {{% resource_link "44aacd9a-e23b-416f-bb78-df47c0b1227e" "_MIT Global Education & Career Development_" %}}
 
 {{< tdclose >}}{{< tdopen >}}
 
@@ -161,7 +161,7 @@ Write two questions about this week's topic.
 
 Happiness and decision making
 
-_Guest speaker: Dorise Gruber, Assistant Director for Freshman Affairs,_ [_Boston University School of Management_](http://management.bu.edu/)
+_Guest speaker: Dorise Gruber, Assistant Director for Freshman Affairs,_ {{% resource_link "57709985-b130-4d3b-9c64-e8b28395ca97" "_Boston University School of Management_" %}}
 
 {{< tdclose >}}{{< tdopen >}}
 
@@ -177,7 +177,7 @@ Write two questions about this week's topic.
 Finding meaning in our lives
 {{< tdclose >}}{{< tdopen >}}
 
-Do the values inventory in: Ramsay, Graham Gordon, and Holly Barlow Sweet. Chapter 7 in _A Creative Guide to Exploring Your Life: Self-Reflection Using Photography, Art and Writing_. Jessica Kingsley Publishers, 2008. ISBN: 9781843108924. \[Preview with [Google Books](http://books.google.com/books?id=asR7-q1SKw8C&printsec=frontcover)\]
+Do the values inventory in: Ramsay, Graham Gordon, and Holly Barlow Sweet. Chapter 7 in _A Creative Guide to Exploring Your Life: Self-Reflection Using Photography, Art and Writing_. Jessica Kingsley Publishers, 2008. ISBN: 9781843108924. \[Preview with {{% resource_link "a331721c-a53b-450e-9cdb-621c469bb691" "Google Books" %}}\]
 
 Write a mini-autobiography.
 

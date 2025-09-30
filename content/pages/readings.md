@@ -13,11 +13,11 @@ uid: b738c7b2-c743-daaa-8774-18d51d5e4be4
 
 \[DL\] = His Holiness the Lama, Dalai and Howard C. Cutler. _The Art of Happiness: A Handbook for Living_. 10th Anniversary ed. Riverhead Books, 2009. ISBN: 9781594488894.
 
-\[Frankl\] = Frankl, Viktor E. _Man's Search for Meaning_. Beacon Press, 2006. ISBN: 9780807014295. \[Preview with [Google Books](http://books.google.com/books?id=F-Q_xGjWBi8C&printsec=frontcover)\]
+\[Frankl\] = Frankl, Viktor E. _Man's Search for Meaning_. Beacon Press, 2006. ISBN: 9780807014295. \[Preview with {{% resource_link "edbf174a-d6e5-42b6-8d9d-aff75f6e43ff" "Google Books" %}}\]
 
 \[Lyubomirsky\] = Lyubomirsky, Sonja. _The How of Happiness: A New Approach to Getting the Life You Want_. Penguin Books, 2008. ISBN: 9780143114956.
 
-\[Peterson\] = Peterson, Christopher. _A Primer in Positive Psychology_. Oxford University Press, 2006. ISBN: 9780195188332. \[Preview with [Google Books](http://books.google.com/books?id=FGpIA9RmCngC&printsec=frontcover)\]
+\[Peterson\] = Peterson, Christopher. _A Primer in Positive Psychology_. Oxford University Press, 2006. ISBN: 9780195188332. \[Preview with {{% resource_link "38dd0c89-4802-42d1-92ef-0297fd97f71a" "Google Books" %}}\]
 
 \[Ricard\] =  Ricard, Matthieu. _Happiness: A Guide to Developing Life's Most Important Skill_. Translated by Jesse Browner. Little, Brown, and Company, 2007. ISBN: 9780316167253.
 
@@ -148,7 +148,7 @@ Strengths
 *   How can we use them and in what capacities?
 *   What are their limitations?
 
-_Guest speaker: Tamara Menghi, Associate Director, Employer Relations and Career Programs, [MIT Global Education & Career Development](http://gecd.mit.edu/)_
+_Guest speaker: Tamara Menghi, Associate Director, Employer Relations and Career Programs, {{% resource_link "44aacd9a-e23b-416f-bb78-df47c0b1227e" "MIT Global Education & Career Development" %}}_
 
 
 {{< tdclose >}}
@@ -262,7 +262,7 @@ Happiness and diversity (cultural and religious)
 
 Happiness and decision making
 
-_Guest speaker: Dorise Gruber, Assistant Director for Freshman Affairs,_ [_Boston University School of Management_](http://management.bu.edu/)
+_Guest speaker: Dorise Gruber, Assistant Director for Freshman Affairs,_ {{% resource_link "57709985-b130-4d3b-9c64-e8b28395ca97" "_Boston University School of Management_" %}}
 
 
 {{< tdclose >}}
@@ -303,8 +303,8 @@ Additional Readings
 
 In addition to the readings listed in the table, the following books are also suggested reading for this seminar.
 
-Ben-Shahar, Tal. _Happier: Learn the Secrets to Daily Joy and Lasting Fulfillment_. McGraw-Hill, 2007. ISBN: 9780071492393. \[Preview with [Google Books](http://books.google.com/books?id=m-dZZVPbwD4C&printsec=frontcover)\]
+Ben-Shahar, Tal. _Happier: Learn the Secrets to Daily Joy and Lasting Fulfillment_. McGraw-Hill, 2007. ISBN: 9780071492393. \[Preview with {{% resource_link "06606e79-78f5-442a-8985-24cbdf5fe600" "Google Books" %}}\]
 
 Gilbert, Daniel. _Stumbling on Happiness_. Vintage Books, 2007. ISBN: 9781400077427.
 
-Ramsay, Graham Gordon, and Holly Barlow Sweet. _A Creative Guide to Exploring Your Life: Self-Reflection Using Photography, Art and Writing_. Jessica Kingsley Publishers, 2008. ISBN: 9781843108924. \[Preview with [Google Books](http://books.google.com/books?id=asR7-q1SKw8C&printsec=frontcover)\]
+Ramsay, Graham Gordon, and Holly Barlow Sweet. _A Creative Guide to Exploring Your Life: Self-Reflection Using Photography, Art and Writing_. Jessica Kingsley Publishers, 2008. ISBN: 9781843108924. \[Preview with {{% resource_link "a331721c-a53b-450e-9cdb-621c469bb691" "Google Books" %}}\]

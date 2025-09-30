@@ -16,7 +16,7 @@ Seminars: 1 session / week; 2 hours / session
 Experimental Study Group (ESG)
 ------------------------------
 
-[ESG](http://esg.mit.edu/) sponsors 5–10 six unit pass/fail seminars each spring on a variety of innovative subjects not covered in the regular curriculum, including psychology, chemistry, social networking, mathematics, and physics. These seminars are open to all MIT students as well as ESG students and are intended to be hands-on and experiential in nature.
+{{% resource_link "2b9e38f0-dc47-4142-aa07-e5a5577a9e92" "ESG" %}} sponsors 5–10 six unit pass/fail seminars each spring on a variety of innovative subjects not covered in the regular curriculum, including psychology, chemistry, social networking, mathematics, and physics. These seminars are open to all MIT students as well as ESG students and are intended to be hands-on and experiential in nature.
 
 Prerequisite
 ------------
