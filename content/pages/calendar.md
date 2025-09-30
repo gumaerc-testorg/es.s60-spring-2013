@@ -61,7 +61,7 @@ Strengths
 - How can we use them and in what capacities?
 - What are their limitations? 
 
-_Guest speaker: Tamara Menghi, Associate Director, Employer Relations and Career Programs,_ [_MIT Global Education & Career Development_](http://gecd.mit.edu/)
+_Guest speaker: Tamara Menghi, Associate Director, Employer Relations and Career Programs,_ {{% resource_link "44aacd9a-e23b-416f-bb78-df47c0b1227e" "_MIT Global Education & Career Development_" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
@@ -109,7 +109,7 @@ Video clips from interviews with people from a different culture
 
 Happiness and decision making
 
-_Guest speaker: Dorise Gruber, Assistant Director for Freshman Affairs,_ [_Boston University School of Management_](http://management.bu.edu/)
+_Guest speaker: Dorise Gruber, Assistant Director for Freshman Affairs,_ {{% resource_link "57709985-b130-4d3b-9c64-e8b28395ca97" "_Boston University School of Management_" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 11
